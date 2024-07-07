@@ -2,15 +2,15 @@ const textConfig = {
   text1: "Cảm ơn Cậu đã đến đây!",
   text2: "Cậu có biết không, mỗi khi Cậu cười, thế giới của anh bừng sáng. Anh muốn là người mang lại nụ cười đó cho Cậu mãi mãi.",
   text3: "Cậu này, anh muốn hỏi Cậu một điều... Cậu có cảm thấy giống anh không, rằng giữa chúng ta có một điều gì đó đặc biệt?",
-  text4: "anh thực sự muốn biết suy nghĩ của Cậu. Cậu có thể chia sẻ cảm xúc của mình với anh được không?",
+  text4: "anh thực sự muốn biết suy nghĩ của Cậu. Cậu có thể chia sẻ cảm xúc của Tớ với anh được không?",
   text5: "Không thèm trả lời đấy :))",
   text6: "Tại vì tớ thích cậu :))",
-  text7: "Mình rất thích Cậu, hãy cho mình cơ hội để yêu thương và chở che cho Cậu nhé!",
+  text7: "Tớ rất thích Cậu, hãy cho Tớ cơ hội để yêu thương và chở che cho Cậu nhé!",
   text8: "Gửi",
   text9: "Yes",
-  text10: "Mình biết mà 🥰. Yêu Cậu nhiều nhiều 😘😘",
+  text10: "Tớ biết mà 🥰. Yêu Cậu nhiều nhiều 😘😘",
   text11:
-    "Tối thứ 7 này mình qua đón nhé cậu đi hóng gió nhé.",
+    "Tối thứ 7 này Tớ qua đón nhé cậu đi hóng gió nhé.",
   text12: "Okii lunn <3",
 };
 
