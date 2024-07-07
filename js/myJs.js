@@ -1,16 +1,16 @@
 const textConfig = {
-  text1: "Hế luu Bx!",
-  text2: "Ox có điều này muốn hỏi Bx nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Bx yêu Ox có phải không nào ._.",
-  text4: "Nếu Bx ko trả lời mà thoát ra tức là muốn làm vợ Ox rùi đó nha :v",
-  text5: "Khom iu Ox nha :))",
-  text6: "Iu Ox nhèo nhèo :))",
-  text7: "Sao Bx iu Ox vại. :vvvv",
-  text8: "Gửi cho Ox di <3",
-  text9: "Vì Ox đẹp try vlllll",
-  text10: "Iu Vk quá luôn ó",
+  text1: "Cảm ơn Cậu đã đến đây!",
+  text2: "Cậu có biết không, mỗi khi Cậu cười, thế giới của anh bừng sáng. Anh muốn là người mang lại nụ cười đó cho Cậu mãi mãi.",
+  text3: "Cậu này, anh muốn hỏi Cậu một điều... Cậu có cảm thấy giống anh không, rằng giữa chúng ta có một điều gì đó đặc biệt?",
+  text4: "anh thực sự muốn biết suy nghĩ của Cậu. Cậu có thể chia sẻ cảm xúc của mình với anh được không?",
+  text5: "Không thèm trả lời đấy :))",
+  text6: "Tại vì tớ thích cậu :))",
+  text7: "Mình rất thích Cậu, hãy cho mình cơ hội để yêu thương và chở che cho Cậu nhé!",
+  text8: "Gửi",
+  text9: "Yes",
+  text10: "Mình biết mà 🥰. Yêu Cậu nhiều nhiều 😘😘",
   text11:
-    "Lấy Ox lun nha Bx :DDDDDDDDDDDDD",
+    "Tối thứ 7 này mình qua đón nhé cậu đi hóng gió nhé.",
   text12: "Okii lunn <3",
 };
 
@@ -75,7 +75,7 @@ $(document).ready(function () {
   }
 
   var n = 0;
-  $("#no").mousemove(function () {
+  $("#no").mousCậuove(function () {
     if (n < 1) switchButton();
     if (n > 1) moveButton();
     n++;
@@ -112,7 +112,7 @@ $(document).ready(function () {
       title: textConfig.text7,
       html: true,
       width: 900,
-      padding: "3em",
+      padding: "3Cậu",
       html: "<input type='text' class='form-control' id='txtReason'  placeholder='Whyyy'>",
       background: '#fff url("img/iput-bg.jpg")',
       backdrop: `
